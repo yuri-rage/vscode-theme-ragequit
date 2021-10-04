@@ -1,0 +1,21 @@
+{
+    "name": "RageQuit",
+    "displayName": "RageQuit",
+    "description": "I quit looking for dark themes and made my own!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RageQuit",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RageQuit-color-theme.json"
+            }
+        ]
+    }
+}
