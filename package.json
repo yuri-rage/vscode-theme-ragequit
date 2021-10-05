@@ -1,14 +1,35 @@
 {
     "name": "ragequit",
-    "displayName": "RageQuit",
+    "displayName": "RageQuit Theme",
     "description": "I quit looking for dark themes and made my own!",
-    "version": "0.0.1",
+    "version": "0.1.0",
+    "license": "MIT",
+    "galleryBanner": {
+		"color": "#0a0e16",
+		"theme": "dark"
+	},
     "engines": {
         "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "monokai",
+        "atom",
+        "theme",
+        "dark",
+        "ragequit",
+        "rage"
+    ],
+    "bugs": {
+        "url": "https://github.com/yuri-rage/vscode-theme-ragequit/issues"
+    },
+    "homepage": "https://github.com/yuri-rage/vscode-theme-ragequit",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yuri-rage/vscode-theme-ragequit"
+    },
     "contributes": {
         "themes": [
             {

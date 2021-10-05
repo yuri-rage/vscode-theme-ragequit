@@ -10,6 +10,6 @@ I focused mainly on C/C++ syntax highlighting, making the code more readable wit
 
 (font: [Fira Code](https://github.com/tonsky/FiraCode))
 
-![](https://github.com/yuri-rage/vscode-theme-ragequit/raw/master/screenshot.png)
+![](https://github.com/yuri-rage/vscode-theme-ragequit/raw/master/screenshots/preview.png)
 
 ### **_If you don't like it, make your own!_**
