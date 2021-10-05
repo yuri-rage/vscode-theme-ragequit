@@ -1,5 +1,9 @@
 # Change Log
 
-## [Unreleased]
+## [v0.1.0]
 
-- Initial commit - not yet available via VS Code Marketplace
+- Initial release
+
+## [v0.1.1]
+
+- Added Marketplace icon

@@ -1,43 +1,49 @@
 {
-    "name": "ragequit",
-    "displayName": "RageQuit Theme",
-    "description": "I quit looking for dark themes and made my own!",
-    "version": "0.1.0",
-    "publisher": "YuriRage",
-    "license": "MIT",
-    "galleryBanner": {
+	"name": "ragequit",
+	"displayName": "RageQuit Theme",
+	"description": "I quit looking for dark themes and made my own!",
+	"version": "0.1.0",
+	"publisher": "YuriRage",
+	"license": "MIT",
+	"galleryBanner": {
 		"color": "#0a0e16",
 		"theme": "dark"
 	},
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "monokai",
-        "atom",
-        "theme",
-        "dark",
-        "ragequit",
-        "rage"
-    ],
-    "bugs": {
-        "url": "https://github.com/yuri-rage/vscode-theme-ragequit/issues"
-    },
-    "homepage": "https://github.com/yuri-rage/vscode-theme-ragequit",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/yuri-rage/vscode-theme-ragequit"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "RageQuit",
-                "uiTheme": "vs-dark",
-                "path": "./themes/RageQuit-color-theme.json"
-            }
-        ]
-    }
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"monokai",
+		"atom",
+		"theme",
+		"dark",
+		"ragequit",
+		"rage"
+	],
+	"icon": "icon.png",
+	"bugs": {
+		"url": "https://github.com/yuri-rage/vscode-theme-ragequit/issues"
+	},
+	"homepage": "https://github.com/yuri-rage/vscode-theme-ragequit",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yuri-rage/vscode-theme-ragequit"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "RageQuit",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RageQuit-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "06eda009-9ac1-4547-958f-c2f97ced64a2",
+		"publisherDisplayName": "Yuri Rage",
+		"publisherId": "e7c3abc3-29fa-408f-ae22-6d721432b0f2"
+	}
 }
