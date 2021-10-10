@@ -7,3 +7,7 @@
 ## [v0.1.1]
 
 - Added Marketplace icon
+
+## [v0.1.2]
+
+- Fixed low contrast selection color
