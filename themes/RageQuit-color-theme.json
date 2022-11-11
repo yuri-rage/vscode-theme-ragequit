@@ -287,8 +287,8 @@
 	  "terminalCursor.background": "#00000000",
 	  "terminalCursor.foreground": "#c8c4ce",
 	  "debugToolBar.background": "#0a0e16",
-	  "welcomePage.buttonBackground": "#0a0e16",
-	  "welcomePage.buttonHoverBackground": "#525053",
+	  //"welcomePage.buttonBackground": "#0a0e16",
+	  //"welcomePage.buttonHoverBackground": "#525053",
 	  "walkThrough.embeddedEditorBackground": "#141820",
 	  "gitDecoration.addedResourceForeground": "#5dba71",
 	  "gitDecoration.modifiedResourceForeground": "#c8b252",
@@ -1761,6 +1761,18 @@
 		"scope": "source.jinja2 variable.other.jinja2",
 		"settings": {
 		  "foreground": "#fd9353"
+		}
+	  },
+	  {
+		"name": "Python docstring",
+		"scope": [
+			"string.quoted.docstring.multi.python",
+			"string.quoted.docstring.multi.python punctuation.definition.string.begin.python",
+			"string.quoted.docstring.multi.python punctuation.definition.string.end.python",
+		],
+		"settings": {
+			"fontStyle": "italic",
+			"foreground": "#83a178"
 		}
 	  }
 	]
